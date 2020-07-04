@@ -1,0 +1,24 @@
+{
+  "name": "stress-test-node-server",
+  "version": "1.0.0",
+  "description": "Create a web server and stress test it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/markwylde/stress-test-node-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/markwylde/stress-test-node-server/issues"
+  },
+  "homepage": "https://github.com/markwylde/stress-test-node-server#readme"
+}
